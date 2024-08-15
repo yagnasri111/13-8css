@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: dimgray;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+  
+background-color: burlywood;
+}
+h1{
+    box-shadow: 2px 2px 8px rgb(78, 62, 62);
+    background-color: rgb(126, 149, 192);
+    font-size: 50px;
+    padding: 8px;
+    text-shadow: 2px 2px 2px rgb(34, 43, 43);
+}
+h3{
+    border: 2px;
+    border-color: rgb(141, 130, 130);
+    text-shadow: 2px 2px 2px;
+    font-size: 25px;
+    padding: 5px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    margin: 5px;
+    padding: 2px;
+    
+    display: inline-block;
+    box-shadow: 2px 2px 6px rgb(28, 27, 28);
+}
+img{
+width: 100%;
+    box-shadow: 2px 2px 9px rgb(41, 37, 37);
+}
+.place{
+    display: inline-block;
+    width: 470px;
+    height: 368px;
+    border: 5px;
+}
+.wayanad{
+    margin: 2px;
+    padding: 2px;
+    box-sizing: 9px 9px 9px rgb(18, 17, 17);
+    background-color: rgb(118, 167, 160);
+}
